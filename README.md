@@ -7,6 +7,3 @@ numbers, and special symbols.<br>
 Copy Password: Once a password is generated, users can easily
 copy it to their clipboard
 
-<img src='./src/assets/1.png'/>
-<img src='./src/assets/2.png'/>
-<img src='./src/assets/3.png'/>
